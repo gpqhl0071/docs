@@ -331,7 +331,7 @@ msgstr ""
 msgid ""
 "MongoDB ensures a balanced cluster using two background process: splitting "
 "and the balancer."
-msgstr "MongoBD使用两个过程维护集群中数据的均衡:分裂和均衡器."
+msgstr "MongoDB使用两个过程维护集群中数据的均衡:分裂和均衡器."
 
 #: ../source/core/sharding-introduction.txt:195
 msgid "Splitting"
